@@ -1,16 +1,22 @@
-### console.log('Hola a Todos 👋')
+<h1 align="center">Hola a Todos <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt=""><br></h1>
+<p align="center">
+  <img src="https://telegra.ph/file/11a72d9554faccd3ec46d.jpg" />
+</p>
 
-<!--
-**JScristhian/JScristhian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
 
-Here are some ideas to get you started:
+- 👨‍💻 Mi nombre es Cristhian
+- 🗣️ Tengo 16 Años
+- 📬 No soy Programador, Estoy Aprendiendo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+
+------
+### Mis redes Sociales 🔔
+<p align="center">
+  <a href="https://wa.me/51961574241"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://www.facebook.com/WorsNationOfficial"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+  <a href="https://github.com/JScristhian"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> 
+  <a href="https://youtube.com/c/OverDreams"><img src="https://img.shields.io/badge/YouTube-overdreams-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/c/OverDreams" /><br>
+  <a href="https://youtube.com/c/OverDreams"><img src="https://img.shields.io/youtube/channel/subscribers/UC8OT6UQxXO7tTV9BahYCWxw?label=subscriptores" /> <br>
+</p>
