@@ -21,10 +21,10 @@
   <a href="https://youtube.com/c/JScristhianMusic"><img src="https://img.shields.io/youtube/channel/subscribers/UC8OT6UQxXO7tTV9BahYCWxw?label=subscriptores" /> <br>
 </p>
 
-### Non-Media Messages
+### Free Commands
 
 ``` ts
-const friends = [none :)]
+const noFound = [
+  'coming soon'
+];
 ```
-
-### More later... coming soon
