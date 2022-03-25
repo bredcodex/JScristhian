@@ -24,7 +24,15 @@
 ### Free Commands
 
 ``` ts
-const noFound = [
-  'coming soon'
-];
+case 'ping_device': {
+    const timetest = speed();
+    const latencia = speed() - timetest
+    exec(`neofetch --stdout`, (error, stdout, stderr) => {
+        const child = stdout.toString('utf-8')
+        const texto = child.replace(/Memory/, 'Memory RAM')
+        if (error) return m.reply(error);
+        m.reply(texto + 'Speed: ' + latencia.toFixed(4) + ' seconds')
+    })
+}
+break;
 ```
