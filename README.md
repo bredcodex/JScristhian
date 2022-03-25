@@ -17,7 +17,7 @@
   <a href="https://wa.me/51961574241"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   <a href="https://www.facebook.com/JScristhian"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
   <a href="https://github.com/JScristhian"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> 
-  <a href="https://youtube.com/c/JScristhianMusic"><img src="https://img.shields.io/badge/YouTube-jscristhian-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/c/JScristhianMusic" /><br>
+  <a href="https://youtube.com/c/JScristhianMusic"><img src="https://img.shields.io/badge/YouTube-jscristhian-ff0000?style=for-the-badge&logo=youtube&logoColor=fffffff&link=https://youtube.com/c/JScristhianMusic" /><br>
   <a href="https://youtube.com/c/JScristhianMusic"><img src="https://img.shields.io/youtube/channel/subscribers/UC8OT6UQxXO7tTV9BahYCWxw?label=subscriptores" /> <br>
 </p>
 
