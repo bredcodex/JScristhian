@@ -6,7 +6,7 @@
 <p align="center">
 
 - 👨‍💻 Mi nombre es Cristhian
-- 🗣️ Tengo 16 Años
+- 🗣️ Tengo 18 años
 - 📬 No soy Programador, Estoy Aprendiendo
 
 </p>
